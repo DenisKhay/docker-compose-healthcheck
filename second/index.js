@@ -1,0 +1,1 @@
+console.log('process env second', process.env);

@@ -1,0 +1,8 @@
+version: '3'
+services:
+  first:
+    build:
+      context: ./first
+    environment:
+      - USERNAME
+      - PASSWORD
